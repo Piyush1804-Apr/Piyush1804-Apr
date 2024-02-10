@@ -15,8 +15,8 @@
   </tr>
  
   <tr>
-    <td>- 💬 Ask me about <strong> Android Development,Kotlin,Java,XML, HTML, CSS, and JavaScript</strong></td>
-    <td>- 📄 Check my resume <a href="https://drive.google.com/file/d/1fvpj0DlhnKBo9L-fmDUzfSArRIR0A4ao/view?usp=drive_link">here</a></td>
+    <td>- 💬 Ask me about <strong> Android Development,Kotlin,Java,XML, HTML, CSS, JavaScript,SQL,Boostrap,nodeJs</strong></td>
+    <td>- 📄 Check my resume <a href="https://drive.google.com/file/d/1ItcG5GJkWPRY_x5A1PQTUt4bKab90Zp8/view?usp=sharing">here</a></td>
   </tr>
   <tr>
     <td>- 🌱 I’m currently learning <strong>Android Development </strong></td>
